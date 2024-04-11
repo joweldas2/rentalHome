@@ -1,0 +1,75 @@
+[
+    {
+      "estate_title": "Cozy Family Home",
+      "id": 1,
+      "segment_name": "Residential",
+      "description": "Nestled within a serene suburban neighborhood, this charming single-family home offers the ideal retreat for families seeking comfort and space. Boasting a generous 2000 square feet, the residence features a spacious living area perfect for family gatherings and relaxation. The well-equipped kitchen provides the opportunity for culinary adventures, while the inviting backyard offers ample space for outdoor activities and leisurely moments. With its warm ambiance and convenient amenities, this cozy abode promises to be the perfect haven for creating lasting memories.",
+      "price": "$2000/month",
+      "status": "rent",
+      "area": "2000 sq ft",
+      "location": "Suburban neighborhood",
+      "facilities": ["Living room", "Kitchen", "Backyard"],
+      "image": "https://i.ibb.co/MD20ydv/2148972401.jpg"
+    },
+    {
+      "estate_title": "Modern Apartment",
+      "id": 2,
+      "segment_name": "Residential",
+      "description": "Situated in the vibrant heart of the downtown area, this modern apartment exudes contemporary elegance and style. Spanning 1200 square feet, the residence offers a sleek living space adorned with chic furnishings and refined finishes. Residents can indulge in luxurious amenities including a sparkling swimming pool and state-of-the-art gym facilities, perfect for maintaining a healthy lifestyle. With its convenient location and sophisticated design, this apartment presents an unparalleled urban living experience for those with discerning tastes..",
+      "price": "$1500/month",
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "Downtown area",
+      "facilities": ["Living room", "Kitchen", "Swimming pool", "Gym"],
+      "image": "https://i.ibb.co/3FQgB11/image.jpg"
+    },
+    {
+      "estate_title": "Spacious Townhouse",
+      "id": 3,
+      "segment_name": "Residential",
+      "description": "Embraced by the tranquility of a suburban neighborhood, this expansive townhouse offers ample space for families or roommates to thrive. Boasting a generous 2200 square feet, the residence features multiple bedrooms providing privacy and comfort for all occupants. The well-appointed living room and kitchen areas create an inviting atmosphere for gatherings and everyday living. Outside, a sprawling backyard beckons for outdoor entertainment and relaxation, completing the perfect setting for creating cherished memories with loved ones.",
+      "price": "$2500/month",
+      "status": "rent",
+      "area": "2200 sq ft",
+      "location": "Suburban neighborhood",
+      "facilities": ["Living room", "Kitchen", "Bedrooms", "Backyard"],
+      "image": "https://i.ibb.co/fQ2nw8y/2050.jpg"
+    },
+    {
+      "estate_title": "Luxury Villa",
+      "id": 4,
+      "segment_name": "Luxury",
+      "description": "Perched along the breathtaking coastline, this exquisite villa offers unparalleled luxury and serenity. Spanning 5000 square feet, the residence boasts spacious rooms adorned with opulent furnishings and panoramic ocean views. Residents can indulge in the ultimate leisure with a private pool surrounded by lush gardens, creating a tranquil oasis for relaxation and entertainment. With its unparalleled beauty and exclusive amenities, this luxury villa epitomizes coastal living at its finest, promising an extraordinary lifestyle for those with discerning tastes.",
+      "price": "$5000/month",
+      "status": "rent",
+      "area": "5000 sq ft",
+      "location": "Coastal area",
+      "facilities": ["Living room", "Kitchen", "Bedrooms", "Swimming pool", "Gardens"],
+      "image": "https://i.ibb.co/1qxFprm/8074.jpg"
+    },
+    {
+      "estate_title": "Urban Loft",
+      "id": 5,
+      "segment_name": "Specialty",
+      "description": "Positioned in the bustling city center, this chic loft embodies the epitome of urban sophistication and style. Spanning 1000 square feet, the residence boasts a trendy living space adorned with modern accents and sleek design elements. The well-appointed kitchen and workspace areas cater to the needs of professionals seeking both comfort and functionality. With its prime location and contemporary ambiance, this urban retreat offers a dynamic lifestyle for those craving the vibrancy of city living.",
+      "price": "$1800/month",
+      "status": "rent",
+      "area": "1000 sq ft",
+      "location": "City center",
+      "facilities": ["Living room", "Kitchen", "Workspace"],
+      "image": "https://i.ibb.co/yB22LCQ/23773.jpg"
+    },
+    {
+      "estate_title": "Rustic Cottage",
+      "id": 6,
+      "segment_name": "Vacation Rental",
+      "description": "Tucked away in the serene countryside, this quaint cottage offers a picturesque retreat amidst nature's embrace. Spanning 800 square feet, the residence exudes rustic charm with its cozy living room and fully equipped kitchen, providing the perfect setting for intimate gatherings and quiet moments of relaxation. The inviting fireplace adds warmth and ambiance, creating a cozy atmosphere during cooler evenings. With its idyllic location and charming features, this rustic cottage promises a tranquil getaway for those seeking solace in nature's beauty..",
+      "price": "$1200/week",
+      "status": "rent",
+      "area": "800 sq ft",
+      "location": "Rural area",
+      "facilities": ["Living room", "Kitchen", "Fireplace"],
+      "image": "https://i.ibb.co/1zfqMJ8/150749.jpg"
+    }
+  ]
+  
